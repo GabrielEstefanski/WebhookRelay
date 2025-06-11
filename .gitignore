@@ -1,0 +1,107 @@
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.userprefs
+
+# Logs
+*.log
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# JetBrains Rider
+.idea/
+
+# DotCover
+*.dotCover
+
+# DotTrace
+*.dotTrace
+
+# Recycle Bin used by Windows
+$RECYCLE.BIN/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Publish output
+publish/
+
+# Others
+*.bak
+*.backup
+*.swp
+*.tmp
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage.*
+
+# Test result files
+TestResults/
+
+# VS Code extensions
+.history/
+
+# Local History for Visual Studio
+.vshistory/
+
+# Dotnet tools
+.tools/
+
+# VS Web Cache
+*.cache
+
+# Entity Framework
+*.edmx.sql
+*.sql
+
+# JetBrains Rider settings
+.idea/
+
+# NPM dependencies if any (for frontend parts)
+node_modules/
+
+# Others
+*.sln.ide
+
+# Environment variables
+.env
+
