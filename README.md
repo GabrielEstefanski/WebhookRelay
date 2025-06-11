@@ -30,7 +30,7 @@ Este projeto é um serviço backend para receber webhooks de APIs externas e pro
 
 ## Requisitos
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - [Docker](https://docs.docker.com/get-docker/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 - Editor de código (ex: VS Code, Visual Studio)
@@ -42,5 +42,5 @@ Este projeto é um serviço backend para receber webhooks de APIs externas e pro
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/GabrielEstefanski/WebhookRelay.git
 cd seu-repositorio
